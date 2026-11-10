@@ -4,11 +4,11 @@
 
 Plant Explorer is a one-page plant search website built on the existing Node.js project structure. It uses the Trefle API to display plant names, scientific names, families, and images.
 
-## Student-provided work and decisions
+## Work completed manually by the student
 
-- The existing project and its folder structure were provided as the starting point.
-- The Trefle API token was supplied in the local `.env` file.
-- The project requirements and design preferences were specified by the student.
+- Provided the existing project and folder structure from the previous assignment as the starting point.
+- Added the Trefle API token to the local `.env` file.
+- Specified the Plant Explorer requirements and design preferences.
 
 ## AI-assisted work
 
